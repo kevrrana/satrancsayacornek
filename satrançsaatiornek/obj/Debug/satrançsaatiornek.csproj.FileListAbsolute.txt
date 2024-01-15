@@ -1,0 +1,10 @@
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\bin\Debug\satrançsaatiornek.exe.config
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\bin\Debug\satrançsaatiornek.exe
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\bin\Debug\satrançsaatiornek.pdb
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\obj\Debug\satrançsaatiornek.csproj.AssemblyReference.cache
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\obj\Debug\satrançsaatiornek.Form1.resources
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\obj\Debug\satrançsaatiornek.Properties.Resources.resources
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\obj\Debug\satrançsaatiornek.csproj.GenerateResource.cache
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\obj\Debug\satrançsaatiornek.csproj.CoreCompileInputs.cache
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\obj\Debug\satrançsaatiornek.exe
+C:\Users\PC0\Desktop\satrançsaatiornek\satrançsaatiornek\obj\Debug\satrançsaatiornek.pdb
